@@ -11,6 +11,7 @@
 https://accessdata.com/product-download/ftk-imager-version-4-5
 FTK® Imager is a data preview and imaging tool that lets you quickly assess electronic evidence to determine if further analysis with a forensic tool such as Forensic Toolkit (FTK®). 
 
-**The image below represents the components that are crucial and needs to be included in the custom image to yield a better forensic analysis output! **
+**The image below represents the components that are crucial and needs to be included in the custom image to yield a better forensic analysis output!**
+
 [![MindMap for Custom Image Creation Collectibles in FTK](https://i.ibb.co/ykvFS2w/Disk-Imaging-Lab-via-FTK-Imager.png "MindMap for Custom Image Creation Collectibles in FTK")](http://https://i.ibb.co/ykvFS2w/Disk-Imaging-Lab-via-FTK-Imager.png "MindMap for Custom Image Creation Collectibles in FTK")
 
