@@ -1,1 +1,1 @@
-# Windows-Digtal-Forensics
+# Imporant Pointers While Performing Windows Forensics 
