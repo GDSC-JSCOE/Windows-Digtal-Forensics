@@ -1,4 +1,4 @@
-#Important pointers while performing Windows Digital Forensics 	
+# Important pointers while performing Windows Digital Forensics 	
 
 **THIS REPO IS CREATED FOR SPECIFIC USE CASES OR SPECIFIC POINTERS FOR DIFFERENT TOOLS FOR DIGITAL FORENSICS. YOU NEED PROPER UNDERSTANDING OF DIGITAL FORENSIC DOMAIN IN ORDER TO UNDERSTAND THE REPO. THIS REPO IS NOT BEGINEER FRIENDLY! THERE IS NO BASICS HERE ✨**
 > **Performing Analysis using FTK Disk Imager** 
