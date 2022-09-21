@@ -18,3 +18,7 @@ FTK® Imager is a data preview and imaging tool that lets you quickly assess ele
 Lets understand the components -
 - **Pagefile.sys**
 The Pagefile.sys also referred to as a swap file or virtual memory file is utilized inside Windows operating frameworks to store information from the RAM when it turns out to be full. The pagefile.sys in Windows operating framework is located at C:\pagefile.sys.
+
+- **Windows.EDB**
+Windows Desktop Search (or Windows Search) is a 'desktop' indexer for Microsoft Windows. In Windows XP, Search 4.0 (or Search XP) was an add-on. However Microsoft integrated Search into Windows Vista as 'part of the package'.
+The artifacts in the Windows Search database can be useful in forensic analysis of a desktop Windows system, especially Windows Vista and later. A few applications are to (partial) recover the content of indexed documents and even email messages stored on a Microsoft Exchange server, to indicate the former existence of files and time-line analysis.
