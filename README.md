@@ -15,3 +15,6 @@ FTK® Imager is a data preview and imaging tool that lets you quickly assess ele
 
 [![MindMap for Custom Image Creation Collectibles in FTK](https://i.ibb.co/ykvFS2w/Disk-Imaging-Lab-via-FTK-Imager.png "MindMap for Custom Image Creation Collectibles in FTK")](http://https://i.ibb.co/ykvFS2w/Disk-Imaging-Lab-via-FTK-Imager.png "MindMap for Custom Image Creation Collectibles in FTK")
 
+Lets understand the components -
+- **Pagefile.sys**
+The Pagefile.sys also referred to as a swap file or virtual memory file is utilized inside Windows operating frameworks to store information from the RAM when it turns out to be full. The pagefile.sys in Windows operating framework is located at C:\pagefile.sys.
