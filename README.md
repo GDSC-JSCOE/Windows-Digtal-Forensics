@@ -22,3 +22,5 @@ The Pagefile.sys also referred to as a swap file or virtual memory file is utili
 - **Windows.EDB**
 Windows Desktop Search (or Windows Search) is a 'desktop' indexer for Microsoft Windows. In Windows XP, Search 4.0 (or Search XP) was an add-on. However Microsoft integrated Search into Windows Vista as 'part of the package'.
 The artifacts in the Windows Search database can be useful in forensic analysis of a desktop Windows system, especially Windows Vista and later. A few applications are to (partial) recover the content of indexed documents and even email messages stored on a Microsoft Exchange server, to indicate the former existence of files and time-line analysis.
+
+**THE REPO IS REFERENCED FROM THE FOLLOWING VIDEO (CREDITS TO THE CREATOR)** : https://youtu.be/43D18t7l7BI
